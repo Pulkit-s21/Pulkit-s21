@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-# I'm Pulkit Saxena
+# **I'm Pulkit Saxena**
 #### 3rd BCA year student as of now
 ![3rd year student as of now](https://i.postimg.cc/HLmh3fv0/Untitled.png)
 
