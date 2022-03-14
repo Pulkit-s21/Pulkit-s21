@@ -5,7 +5,7 @@
 
 I am from Panchkula, India. I am a student at Chitkara University studying BCA and going to complete MCA. I like learning new languages and I am more interested into web development because I love it when the sites I make look good and work nicely.
 
-##Skills: 
+## Skills: 
 
 * 💻 HTML, CSS, Js
 * 📱 Flutter
