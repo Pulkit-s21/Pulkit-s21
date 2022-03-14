@@ -1,11 +1,13 @@
 ## Hi there 👋, 
-### Hi there 👋, I'm Pulkit Saxena
+# I'm Pulkit Saxena
 #### 3rd BCA year student as of now
 ![3rd BCA year student as of now](https://i.postimg.cc/prpbxH6C/Untitled.png)
 
 I am from Panchkula, India. I am a student at Chitkara University studying BCA and going to complete MCA. I like learning new languages and I am more interested into web development because I love it when the sites I make look good and work nicely.
 
-Skills: HTML / CSS / JS
+## Skills:
+* 💻 HTML / CSS / JS
+* 📱 Flutter
 
 - 🔭 I’m currently working on  learning new languages and mastering web development ones 
 - 🌱 I’m currently learning JavaScript, CSS, HTML 
