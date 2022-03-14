@@ -7,7 +7,7 @@ I am from Panchkula, India. I am a student at Chitkara University studying BCA a
 
 ## Skills: 
 
-* 💻 HTML, CSS, Js
+* 💻 HTML, CSS, JS
 * 📱 Flutter
 
 - 🔭 I’m currently working on learning new languages and mastering web development ones 
