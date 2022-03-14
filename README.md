@@ -9,7 +9,7 @@ I am from Panchkula, India. I am a student at Chitkara University studying BCA a
 * 💻 HTML, CSS, Js
 * 📱 Flutter
 
-- 🔭 I’m currently working on learning new languages and mastering web development onces 
+- 🔭 I’m currently working on learning new languages and mastering web development ones 
 - 🌱 I’m currently learning JavaScript, CSS, HTML 
 - 🤔 I’m looking for help with JavaScript, CSS and their framework 
 - 😄 Pronouns: he/him 
