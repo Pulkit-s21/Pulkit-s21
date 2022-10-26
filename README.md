@@ -1,6 +1,6 @@
 ## Hi there 👋, 
 # I'm Pulkit Saxena
-#### Post Graduate
+#### Graduate
 #### 1st year MCA student
 ![3rd BCA year student as of now](https://i.postimg.cc/prpbxH6C/Untitled.png)
 
