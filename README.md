@@ -4,7 +4,7 @@
 #### 1st year MCA student
 ![3rd BCA year student as of now](https://i.postimg.cc/prpbxH6C/Untitled.png)
 
-I am from Panchkula, India. I am a student at Chitkara University and completed my post graduation in BCA and now studying MCA.I like learning new languages and I am more interested into web development because I love it when the sites I make look good and work nicely.
+I am from Panchkula, India. I am a student at Chitkara University and completed my graduation in BCA and now studying MCA.I like learning new languages and I am more interested into web development because I love it when the sites I make look good and work nicely.
 
 ## Skills:
 * 💻 HTML / CSS / JS / Tailwind / Bootstrap
