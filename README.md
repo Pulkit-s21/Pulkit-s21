@@ -1,19 +1,16 @@
 ## Hi there 👋, 
 # I'm Pulkit Saxena
-#### Graduate
-#### 2nd year MCA student
-![3rd BCA year student as of now](https://i.postimg.cc/prpbxH6C/Untitled.png)
+#### Post Graduate
+#### Software Developer
+!(https://i.postimg.cc/prpbxH6C/Untitled.png)
 
-I am from Panchkula, India. I am a student at Chitkara University and completed my graduation in BCA and now studying MCA.I like learning new languages and I am more interested into web development because I love it when the sites I make look good and work nicely.
+I am from Panchkula, India. I like learning new languages and I am more interested into web development because I love it when the sites I make look good and work nicely.
 
 ## Skills:
-* 💻 HTML / CSS / JS / Tailwind / Bootstrap
-* 📱 Flutter
+* 💻 HTML / CSS / JS / TailwindCSS / Bootstrap / NodeJS / React Native / MySQL
 
-- 🔭 I’m currently working on  learning new languages and mastering web development ones 
-- 🌱 I’m currently learning JavaScript, CSS, HTML 
-- 🤔 I’m looking for help with JavaScript, CSS and their framework 
-- 😄 Pronouns: he/him 
+- 🔭 I’m currently learning react native and node js 
+- 🌱 I’m a Software Developer at Calidig Solutions LLP  
 - ⚡ Fun fact: I like to play video games and just chill 
 
 
