@@ -2,9 +2,9 @@
 # I'm Pulkit Saxena
 #### Post Graduate
 #### Software Developer
-!(https://i.postimg.cc/prpbxH6C/Untitled.png)
+![Photo](https://i.postimg.cc/prpbxH6C/Untitled.png)
 
-I am from Panchkula, India. I like learning new languages and I am more interested into web development because I love it when the sites I make look good and work nicely.
+I am from Panchkula, India. I like learning new languages, skills and I am more interested in web development because I love it when the sites I make look good and work nicely.
 
 ## Skills:
 * 💻 HTML / CSS / JS / TailwindCSS / Bootstrap / NodeJS / React Native / MySQL
